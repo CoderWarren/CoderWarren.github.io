@@ -1,10 +1,10 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Interactives"
+permalink: /interactives/
 author_profile: true
 redirect_from:
-  - /publications
-  - /publications.html
+  - /interactives
+  - /interactives.html
 ---
 
 This page will be updated in the near future. Stay tuned!
