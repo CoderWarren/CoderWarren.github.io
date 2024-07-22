@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 ## Resources
-[Induction Bottom-up](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
+Below are some notes that I've typed up for various courses.
+
+[A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
 
 ## Past Courses Taught
 
 ### University of Toronto
+
 | Semester     | Course Name and Code                                         | Position |                        
 | ------------ | ------------------------------------------------------------ |----------|
 | Winter 2024  | CSC 240: Enriched Introduction to the Theory of Computation  | TA       |
