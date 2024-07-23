@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## Resources
-Below are some notes that I've typed up for various courses.
+Below are some notes that I've typed up when teaching various courses.
 
-[A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
+* [A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
 
-## Past Courses Taught
+## List of Courses Taught
 
 ### University of Toronto
 
