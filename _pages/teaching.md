@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-## Resources
+## Notes
 Below are some notes that I've typed up when teaching various courses.
 
 * [A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
