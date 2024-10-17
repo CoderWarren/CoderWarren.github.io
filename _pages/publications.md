@@ -13,7 +13,7 @@ redirect_from:
 
 This section will be updated in the near future. Stay tuned!
 
-## Computational Linguistics/Cognitive Science
+## Miscellaneous
 
 ### Publications
 
