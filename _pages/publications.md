@@ -12,6 +12,8 @@ redirect_from:
 ### Publications
 
 This section will be updated in the near future. Stay tuned!
+<br>
+<br>
 
 ## Miscellaneous
 
