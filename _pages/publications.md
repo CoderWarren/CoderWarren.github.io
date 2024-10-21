@@ -14,6 +14,11 @@ redirect_from:
 This section will be updated in the near future. Stay tuned!
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Miscellaneous
 
@@ -25,5 +30,4 @@ This section will be updated in the near future. Stay tuned!
 
 | Project                        | Date        | Description                                                  |
 | ------------------------------ | ----------- | ------------------------------------------------------------ |
-| [Morality Visualizer](https://warz.shinyapps.io/MoralityVisualizer/)   | October 2024   | An interactive plot for the morality timecourse of various words, made in collaboration with [Aida Ramezani](https://aidaramezani.github.io/) and [Yang Xu](https://www.cs.toronto.edu/~yangxu/index.html). |
 | [BC Grade Transitions Analysis](https://coderwarren.github.io/An-Analysis-of-BC-Grade-Transitions/)   | April 2022   | This undergraduate project is an analysis of British Columbian Grade-to-Grade transition rates. It features various interactive graphs.                       |
