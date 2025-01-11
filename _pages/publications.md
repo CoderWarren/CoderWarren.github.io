@@ -22,11 +22,8 @@ This section will be updated in the near future. Stay tuned!
 
 ## Miscellaneous
 
-### Publications
-
-This section will be updated in the near future. Stay tuned!
-
 ### Interactives
+Below are some of my past projects with interactives. Although these are not related to the theory of computer science, you may still find them to be of interest.
 
 | Project                        | Date        | Description                                                  |
 | ------------------------------ | ----------- | ------------------------------------------------------------ |
