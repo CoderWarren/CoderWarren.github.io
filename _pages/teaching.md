@@ -18,6 +18,7 @@ Below are some notes that I've typed up when teaching various courses.
 
 | Semester     | Course Name and Code                                         | Position |                        
 | ------------ | ------------------------------------------------------------ |----------|
+| Winter 2025  | CSC240: Enriched Introduction to the Theory of Computation   | TA       |
 | Fall 2024    | CSC263: Data Structures and Analysis                         | TA       |
 | Winter 2024  | CSC240: Enriched Introduction to the Theory of Computation   | TA       |
 | Fall 2023    | CSC236: Introduction to the Theory of Computation            | TA       |
