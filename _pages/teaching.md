@@ -10,7 +10,7 @@ redirect_from:
 ## Notes
 Below are some notes that I've typed up when teaching various courses.
 
-* [A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/Arbitrary_vs_Chosen.pdf)
+* [A noteworthy mistake sometimes made in Inductive Proofs](https://CoderWarren.github.io/files/arbitrary.pdf)
 
 ## List of Courses Taught
 
