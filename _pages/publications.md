@@ -11,7 +11,7 @@ redirect_from:
 
 ### Publications
 
-This section will be updated in the near future. Stay tuned!
+This section will be updated in the very near future. Stay tuned!
 <br>
 <br>
 <br>
@@ -20,12 +20,4 @@ This section will be updated in the near future. Stay tuned!
 <br>
 
 
-## Miscellaneous
-
-### Interactives
-Below are some of my past projects with interactives. Although these are not related to the theory of computer science, you may still find them to be of interest.
-
-| Project                        | Date        | Description                                                  |
-| ------------------------------ | ----------- | ------------------------------------------------------------ |
-| [Morality Visualizer](https://warz.shinyapps.io/MoralityVisualizer/)   | October 2024   | An interactive plot for the morality timecourse of various words that I made while collaborating with [Aida Ramezani](https://aidaramezani.github.io/) and [Yang Xu](https://www.cs.toronto.edu/~yangxu/). |
-| [BC Grade Transitions Analysis](https://coderwarren.github.io/An-Analysis-of-BC-Grade-Transitions/)   | April 2022   | This undergraduate project is an analysis of British Columbian Grade-to-Grade transition rates. It features various interactive graphs.                       |
+I also have some other projects that aren't related to theoretical computer science. You can find them [here](https://coderwarren.github.io/other_work/).
